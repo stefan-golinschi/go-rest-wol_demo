@@ -1,5 +1,3 @@
-// Rest API Implementations
-
 package main
 
 import (
