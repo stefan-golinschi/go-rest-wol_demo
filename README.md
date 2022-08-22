@@ -1,3 +1,5 @@
+#Version 0.4
+
 # GoLang HTTP Server for Remote WOL Requesting from an CSV Computer List
 
 A HTTP server who sends a Wake On LAN package on an HTTP request.
